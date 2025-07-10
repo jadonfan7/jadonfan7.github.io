@@ -5,14 +5,6 @@
 - Tencent, CSIG Department, /Jul. 2023 - Sep. 2023/
 
 === Undergraduate Projects
-- *Low-Altitude Logistics Planning*, Tongji University, Shanghai, China, /Mar. 2025 - May. 2024/
--- Design *new drone mode* for express parcel logistics, urban flash delivery, blood and first aid material distribution.
--- Design *low-altitude distribution sites* for Gansu Province to expand the transportation throughput to alleviate the pressure of intercity ground transportation, considering the constraints of the narrow topography and special landscape of Gansu Province.
--- *Plan drone network for Changsha* to alleviate the pressure on the existing postal mode. Focus on the Orange Isle area and design drone food delivery service to improve tourists' travel experience.
-
-- *Patient Drug Recommendation Based on Multimodal Learning*, SEM SITP, Tongji University, Shanghai, China, /Mar. 2023 - Mar. 2024/
--- Take heart disease as an example and use Decision Tree, K-nearest Neighbors and other algorithms to predict whether the patient is sick based on the structured data in the electronic medical record.
--- Adopt N-gram deep learning model, process the text data using LightGBM and judge the utility of the drug by constructing a neural network. Finally *recommend the drug in combination with the patient's medical history*.
 
 - *Agent-based Modeling and Simulation System for Library Seat Selection*, SEM SITP, Tongji University, Shanghai, China, /Jun. 2023 - Aug. 2023/
 -- Collect data on the school library environment and readers through onsite investigation and questionnaire surveys and use Anylogic software to *construct a virtual library environment* and create agents representing readers and seats.
